@@ -10,9 +10,9 @@ series: Trinitatiszeit 2024
 summary: "Ein karges Stück Land blüht auf, wenn es bebaut und bepflanzt wird. Könnte ganz ähnliches auch in unserem Zusammenleben geschehen, so dass wir am Ende Gerechtigkeit und Friede ernten?"
 source: pfarrplaner
 source_id: "86@planer.pfarr.tools"
-cover: cover.
+cover: erntebitte.jpg
 cover_alt: "Titelbild zur Predigt \"Erntebitte\"."
-audio: audio.mp3
+audio: erntebitte.mp3
 audio_duration: "14:00"
 legacy_id: 448
 events:
